@@ -1,2 +1,2 @@
 # streamlit-random-forest-classifier-app
-Tune hyperparameter of random forest classifier
+random forest classifier hyperparameter tumning app
